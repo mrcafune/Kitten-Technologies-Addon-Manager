@@ -1,4 +1,4 @@
-# KTAM WoW Addon Manager
+# ![banner](https://github.com/mrcafune/Kitten-Technologies-Addon-Manager/assets/101951803/5cbff617-2d60-422f-a223-aff89487b811)
 
 ## About
 
