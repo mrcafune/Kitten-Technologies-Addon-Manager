@@ -4,8 +4,7 @@
 
 KTAM WoW Addon Manager is a Python-based graphical user interface, ad-free application designed to simplify the process of managing World of Warcraft addons. It allows users to download addons directly from GitHub repositories.
 
-![ktam](https://github.com/mrcafune/Kitten-Technologies-Addon-Manager/assets/101951803/662d2918-4ec5-4c46-94be-1aa1cb298725)
-
+![23](https://github.com/mrcafune/Kitten-Technologies-Addon-Manager/assets/101951803/5e401271-b0fc-40fe-9bf6-9ed6f145a9b5)
 
 ## Features
 
