@@ -1,0 +1,1 @@
+# Kitten-Technologies-Addon-Manager
